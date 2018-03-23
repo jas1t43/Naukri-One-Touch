@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_recruiter_logout"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Logout"/>
+    
+	<item android:id="@+id/action_create_job_profile"
+          android:title="Create Job"
+          android:showAsAction="always"/>"
+</menu>

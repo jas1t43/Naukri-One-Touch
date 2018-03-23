@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Naukri One Touch</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+	<string name="register">Register</string>
+	<string name="home">Home</string>
+	<string name="job_profile">Job Profile</string>
+	<string name="job_details">Job Details</string>
+	<string name="search_result">Search Result</string>
+	
+	
+	<color name="page_title_bgColor">#1697D3</color>
+	<color name="page_title_color">#ffffff</color>
+	<color name="list_background">#2C3240</color>
+	<color name="list_background_pressed">#CC191F</color>
+	
+	
+	<string-array name="ac_types">
+	    <item>Job Seeker</item>
+	    <item>Recruiter</item>
+	</string-array>
+	
+	<string-array name="nav_drawer_items1">
+	    <item>Home</item>
+	    <item>Personal Info</item>
+	    <item>Contact Info</item>
+	    <item>Qualification Info</item>
+	    <item>Skill Info</item>
+	    <item>Recommended Jobs</item>
+	</string-array>
+	
+	<string-array name="nav_drawer_items2">
+	    <item>Home</item>
+	    <item>Personal Info</item>
+	    <item>Contact Info</item>
+	    <item>Jobs Info</item>
+	</string-array>
+	
+	
+	<string-array name="array_jobs">
+	    <item>Job 1</item>
+	    <item>Job 2</item>
+	    <item>Job 3</item>
+	    <item>Job 4</item>
+	    <item>Job 5</item>
+	    <item>Job 6</item>
+	    <item>Job 7</item>
+	    <item>Job 8</item>
+	    <item>Job 9</item>
+	    <item>Job 10</item>
+	</string-array>
+	
+</resources>
